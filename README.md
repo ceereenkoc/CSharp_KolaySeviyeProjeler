@@ -1,4 +1,4 @@
-# CSharp_Projeler
+# CSharp_KolaySeviyeProjeler
 Kolay seviye çeşitli C# projeleri
 
 ### Patika adresim:
